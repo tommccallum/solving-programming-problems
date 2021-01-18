@@ -13,6 +13,15 @@ This starter kit is for students who are new to coding and do not have the exper
   * a build error - a package is missing, or some variable or function cannot be found,
   * a runtime error - the code works but it segmentation faults for some reason or does not do what you expected.
 
+### You are wanting to do a personal project but don't know where to start?
+
+* Look for similar work on Git services like GitHub, GitLabs and Bitbucket
+* Look for blogs that talk around the topics
+* Break down the problem into smaller tasks and look for examples that do small bits of the problem
+* Look for libraries that you can stitch together to get something working.
+* Write many smaller 1 file programs that do a small part of the functionality you require and then start to combine them into larger programs.
+* Get some advice from the delivery staff or peer
+
 ### You are working on self-written code and you are getting red squiggles or its not building...
 
 * Check the language specification document to see if your usage is semantically valid and does not lead to undefined behaviour.
