@@ -13,6 +13,15 @@ This starter kit is for students who are new to coding and do not have the exper
   * a build error - a package is missing, or some variable or function cannot be found,
   * a runtime error - the code works but it segmentation faults for some reason or does not do what you expected.
 
+### How to use Google effectively to find a solution to your programming problem?
+
+* Copy and paste the error from the compiler/program into the search engine
+* Remove any text that is specific to your machine or directory structure
+* Add the programming language to the front of the query e.g. "python invalid tab"
+* Add the version number if there are distinct versions e.g. Python 3.7 vs Python 2.8
+* Before copying anything from a blog or code, read the whole answer in case there are corrections later on in the comments.
+* Try and create a minimal version that you can use to test if the correction is correct.
+
 ### You are wanting to do a personal project but don't know where to start?
 
 * Look for similar work on Git services like GitHub, GitLabs and Bitbucket
